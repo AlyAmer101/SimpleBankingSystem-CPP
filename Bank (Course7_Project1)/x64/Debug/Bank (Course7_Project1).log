@@ -1,0 +1,3 @@
+﻿  Bank (Course7_Project1).cpp
+M:\Code\projects_track_abu_hadhud\Bank (Course7_Project1)\Bank (Course7_Project1)\Bank (Course7_Project1)\Bank (Course7_Project1).cpp(50,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Bank (Course7_Project1).vcxproj -> M:\Code\projects_track_abu_hadhud\Bank (Course7_Project1)\Bank (Course7_Project1)\x64\Debug\Bank (Course7_Project1).exe
