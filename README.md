@@ -1,8 +1,7 @@
 
-<p>
-  <a href="https://www.linkedin.com/in/alyamer101/" style="padding:8px 16px; background-color:#0A66C2; color:white; text-decoration:none; border-radius:5px; margin-right:10px;">LinkedIn</a>
-  <a href="https://alyamer-dev.github.io/AlyAmer/" style="padding:8px 16px; background-color:#6c63ff; color:white; text-decoration:none; border-radius:5px;">Website</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/My_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyamer101/)    
+[![Website](https://img.shields.io/badge/My_Website-6c63ff?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://alyamer-dev.github.io/AlyAmer/)
+
 
 
 # Simple Banking System in C++
