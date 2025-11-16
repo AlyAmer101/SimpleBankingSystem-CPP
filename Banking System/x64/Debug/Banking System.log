@@ -1,3 +1,3 @@
 ﻿  Banking System.cpp
-M:\Code\projects_track_abu_hadhud\Course 7\Project 1 - Banking System\Banking System\Banking System\Banking System.cpp(50,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  Banking System.vcxproj -> M:\Code\projects_track_abu_hadhud\Course 7\Project 1 - Banking System\Banking System\x64\Debug\Banking System.exe
+M:\Code\projects_track_abu_hadhud\Course 7\Project 2 - Banking System Extention\Banking System\Banking System\Banking System.cpp(59,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Banking System.vcxproj -> M:\Code\projects_track_abu_hadhud\Course 7\Project 2 - Banking System Extention\Banking System\x64\Debug\Banking System.exe
