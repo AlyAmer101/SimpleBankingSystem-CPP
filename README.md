@@ -58,8 +58,6 @@ g++ main.cpp -o BankingSystem
 ./BankingSystem
 ```
 
-💡 البرنامج يشتغل مباشرة بدون أي إعدادات إضافية لأن تخزين البيانات يتم داخل ملف نصي.
-
 ---
 
 ## 📸 Preview (Program Output)
@@ -91,8 +89,6 @@ This project demonstrates:
 * Menu handling & multi‑screen navigation
 * Real transaction logic (deposit / withdraw)
 
-🔥 مشروع ممتاز لعرض مهارات البرمجة في C++ على الـ LinkedIn و GitHub والـ CV.
-
 ---
 
 ## 📌 Future Improvements
@@ -109,9 +105,6 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Aly Amer**
-
-🔗 GitHub: *(Add your link here)*
-🔗 LinkedIn: *(Add your link here)*
 
 ---
 
